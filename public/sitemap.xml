@@ -1,52 +1,53 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://imagemfacil.com.br/</loc>
+    <loc>https://imagem-facil.vercel.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/comprimir-imagens</loc>
+    <loc>https://imagem-facil.vercel.app/comprimir-imagens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/converter-imagens</loc>
+    <loc>https://imagem-facil.vercel.app/converter-imagens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/redimensionar-imagens</loc>
+    <loc>https://imagem-facil.vercel.app/redimensionar-imagens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/cortar-imagens</loc>
+    <loc>https://imagem-facil.vercel.app/cortar-imagens</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/imagem-para-pdf</loc>
+    <loc>https://imagem-facil.vercel.app/imagem-para-pdf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/sobre</loc>
+    <loc>https://imagem-facil.vercel.app/sobre</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/contato</loc>
+    <loc>https://imagem-facil.vercel.app/contato</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/politica-de-privacidade</loc>
+    <loc>https://imagem-facil.vercel.app/politica-de-privacidade</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://imagemfacil.com.br/termos-de-uso</loc>
+    <loc>https://imagem-facil.vercel.app/termos-de-uso</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
